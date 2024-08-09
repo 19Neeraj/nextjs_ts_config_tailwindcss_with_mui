@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-
+<img width="861" alt="codeimg" src="https://github.com/user-attachments/assets/c0665f26-2f47-4f52-a52e-6929d8b64d35">
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
